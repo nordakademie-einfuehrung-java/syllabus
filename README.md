@@ -10,6 +10,7 @@ Beherrschung der Grundkonzepte der Programmiersprache Java bis hin zur Erstellun
 ### Erster Teil (erstes Semester)
 - Allgemeine Einführung in Programmiersprachen am Beispiel von Java
 - Einführung in die Entwicklungsumgebung Eclipse
+- Einführung in die Entwickler-Kollaborationsplattform GitHub
 - Elementare Sprachkonstrukte: primitive Datentypen, Fallunterscheidungen, Programmschleifen, statische Methoden, Array-Datentypen
 - Einführung in die objektorientierte Programmierung: Klassen (Konstruktoren,Attribute und Methoden), Objektbegriff, Referenzdatentypen
 - Pakete und Importe, Benutzerinteraktion, Klassenbibliothek, Besonderheiten der String-Klasse.
