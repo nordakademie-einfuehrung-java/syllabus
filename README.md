@@ -1,1 +1,1 @@
-# "Einführung in die Softwareentwicklung" Syllabus
+# Einführung in die Softwareentwicklung
