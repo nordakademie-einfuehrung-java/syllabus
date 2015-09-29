@@ -1,2 +1,1 @@
-# syllabus
-Syllabus für Vorlesung "Einführung in die Softwareentwicklung"
+# "Einführung in die Softwareentwicklung" Syllabus
