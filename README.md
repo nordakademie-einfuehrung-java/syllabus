@@ -1,4 +1,4 @@
-# Einführung in die Softwareentwicklung [![Gitter](http://img.shields.io/badge/gitter-join%20chat-1dce73.svg)](https://gitter.im/nordakademie-einfuehrung-java)
+# Einführung in die Softwareentwicklung
 - Modulnummer: W120
 - Leistungsnachweis: Hausarbeit
 
@@ -34,3 +34,8 @@ Java ist eine objektorientierte Programmiersprache, die im kommerziellen Umfeld 
 - Java ist auch eine Insel (http://openbook.galileocomputing.de/javainsel/), Galileo Computing, ISBN 978-3836218023
 - Java von Kopf bis Fuß, O'Reilly, ISBN 978-3897214484
 - Java Sprachreferenz, http://docs.oracle.com/javase/7/docs/api/
+
+## Weitere Unterstützung
+- In den Issues zur betreffenden Übungsaufgabe nach bereits beantworteter Frage suchen und bei Bedarf dort neues Issue erstellen
+- Antworten auf allgemeine Fragen [in den Syllabus-Issues suchen](https://github.com/nordakademie-einfuehrung-java/syllabus/issues) bzw. neues [Issue im Syllabus einstellen](https://github.com/nordakademie-einfuehrung-java/syllabus/issues/new)
+- Kurzfristige Fragen an die Gruppe am liebsten per Gitter-Chat (Anmeldung mit GitHub-Account) klären [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nordakademie-einfuehrung-java/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
