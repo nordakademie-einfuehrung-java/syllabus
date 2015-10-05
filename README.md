@@ -1,4 +1,6 @@
 # Einführung in die Softwareentwicklung [![Gitter](http://img.shields.io/badge/gitter-join%20chat-1dce73.svg)](https://gitter.im/nordakademie-einfuehrung-java)
+
+[![Join the chat at https://gitter.im/nordakademie-einfuehrung-java/syllabus](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/nordakademie-einfuehrung-java/syllabus?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 - Modulnummer: W120
 - Leistungsnachweis: Hausarbeit
 
